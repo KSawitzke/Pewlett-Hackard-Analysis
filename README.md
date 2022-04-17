@@ -41,4 +41,7 @@ INNER JOIN dept_emp as d
 	ON (e.emp_no = d.emp_no)
 WHERE (d.to_date = '9999-01-01')
 ```
-There are not nearly enough employees to mentor the necessary ~72 thousand positions. The 1,549 eligible for the mentoring program according to the guidelines set would mean ~47 mentees per each mentor. 
+There are not nearly enough employees to mentor the necessary ~72 thousand positions. The 1,549 eligible for the mentoring program according to the guidelines set would mean ~47 mentees per each mentor. Further discussion might need to be had between each Chief Executive and their senior members to see how to handle their particular employee training programs, as seen here some departments are hit harder than others:
+
+![Pic](PerDeptRetire.PNG)
+
